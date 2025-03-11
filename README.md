@@ -2,6 +2,6 @@
 GIT PRACTICE
 ============
 
-Teammate 1's Name: ______________
+Teammate 1's Name: ____Nan Xiao__________
 
 Teammate 2's Name: ______________
